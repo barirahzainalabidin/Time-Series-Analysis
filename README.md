@@ -17,6 +17,8 @@ Metric - MAPE
 
 Link Notebook Solution - https://www.kaggle.com/code/barirahzainal/my-project-rohlik-orders-random-forest
 
+Link Notebook Solution - https://www.kaggle.com/code/barirahzainal/my-project-rohlik-orders-random-forest-2
+
 
 
 
