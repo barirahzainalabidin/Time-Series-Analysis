@@ -6,7 +6,7 @@
 
 # 1. Rohlik Orders Forecasting Challenge
 
-Method 1 - Random Forest Regression
+# Method 1 - Random Forest Regression
 
 Pipelines - Fill missing values numerics with 0  and text data with unknown ---> Convert 'date' to datetime format ---> Extract common date features 
 ---> Encode categorical columns ---> Define features ( Common Feature / Multiple Features ) and target ---> Split the data into features and target 
@@ -18,7 +18,9 @@ Metric - MAPE
 Link Notebook Solution - https://www.kaggle.com/code/barirahzainal/my-project-rohlik-orders-random-forest
 
 
-Method 2 - Hidden Markov Time Series
+
+
+# Method 2 - Hidden Markov Time Series
 
 
 Pipelines -  Transforming data into the time series format --->  Slicing time series data ---> Operating on time series data 
